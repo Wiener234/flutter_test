@@ -1,0 +1,4 @@
+#Tue Dec 13 18:31:50 CET 2022
+base.0=/home/nils/github/flutter_test/my_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
